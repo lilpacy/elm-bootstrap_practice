@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+}
+
+.background {
+  background: #ccffff;
+  overflow: hidden;
+}
+
+.top {
+  width: 100vw;
+  height: 100vh;
+}
+
+a {
+  display: block;
+}
